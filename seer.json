@@ -1,0 +1,7 @@
+{
+  "$schema": "https://bitbucket.org/agencesoon/automate/raw/531f0d85b7af042aa34b5f7cb0d2f279c94ef21c/public/schemas/schema.seer.json",
+  "name": "Kaliop_CatalogGenericProductItem",
+  "type": "module",
+  "context": "application",
+  "featureset": "Content & Customizations"
+}

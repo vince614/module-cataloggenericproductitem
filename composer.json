@@ -1,0 +1,24 @@
+{
+  "name": "kaliop/module-cataloggenericproductitem",
+  "description": "Add a generic product to your templates.",
+  "type": "magento2/module",
+  "license": "OSL-3.0",
+  "version": "1.0.3",
+  "authors": [
+    {
+      "name": "Tommy Chausson",
+      "email": "tchausson@kaliop.com"
+    }
+  ],
+  "require": {
+    "magento/framework": "*"
+  },
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Kaliop\\CatalogGenericProductItem\\": ""
+    }
+  }
+}
